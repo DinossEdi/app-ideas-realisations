@@ -12,12 +12,12 @@ required to complete them.
 |  2   | Developers at an intermediate stage of learning and experience. They are comfortable in UI/UX, using development tools, and building apps that use API services. |
 |  3   | Developers who have all of the above, and are learning more advanced techniques like implementing backend applications and database services.                    |
 
-🌟 - New Project
+
 
 ### Tier-1: Beginner Projects
 
 
-| Name | Short Description | Tier | Flutter| Xamarin | React Native |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |  |   |   |
-|   |   |   |   |   |   |
+| Name | Short Description | Tier | Flutter| Xamarin | React Native |Onsen UI |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |  |   |   |   |
+|   |   |   |   |   |   |   |
