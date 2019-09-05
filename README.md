@@ -17,7 +17,7 @@ required to complete them.
 ### Tier-1: Beginner Projects
 
 
-| Name | Short Description | Tier | Flutter| Xamarin | React Native |Onsen UI |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
-|   |   |   |   |   |   |   |
+| Name | Short Description | Tier | Flutter| Xamarin | React Native |Android SDK | Swift |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |------------ |
+| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
+|   |   |   |   |   |   |   |||
