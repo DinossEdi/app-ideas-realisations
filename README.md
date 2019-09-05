@@ -19,5 +19,5 @@ required to complete them.
 
 | Name | Short Description | Tier | Flutter| Xamarin | React Native |Onsen UI |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |  |   |   |   |
+| Bin2Dec | Binary-to-Decimal number converter| 1-Beginner |:white_large_square:|:white_large_square:|:white_large_square:|:white_large_square:|
 |   |   |   |   |   |   |   |
