@@ -80,9 +80,9 @@ required to complete them.
 
 ### Tier-3: Advanced Projects
 
-| Name                                                           | Short Description                                                   | Tier       |
+| Name                                                           | Short Description                                                   | Tier       | Flutter | Xamarin | React Native |
 | -------------------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
-| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |
+| [Battleship Bot](./Projects/Battleship-Bot.md)                 | Create a Discord bot that plays Battleship                          | 3-Advanced |         |         |              |
 | [Battleship Game Engine](./Projects/Battleship-Game-Engine.md) | Create a callable engine to play the Battleship game                | 3-Advanced |
 | [Boole Bots Game](./Projects/Boole-Bot-Game.md)                | Battling Bots driven by Boolean algebra                                     | 3-Advanced |
 | [Calorie Counter](./Projects/Calorie-Counter-App.md)         | Calorie Counter Nutrition App                                         | 3-Advanced |
